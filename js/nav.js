@@ -13,11 +13,11 @@ const createNav = () => {
             </div>
         </div>
         <ul class="links-container">
-            <li class="link-item"><a href="#" class="link">HOME</a></li>
-            <li class="link-item"><a href="#" class="link">VAPE</a></li>
-            <li class="link-item"><a href="#" class="link">POD</a></li>
-            <li class="link-item"><a href="#" class="link">ESSENTIAL OIL Vape</a></li>
-            <li class="link-item"><a href="#" class="link">TRADEMARK</a></li>
+                <li class="link-item"><a href="#" class="link">HOME</a></li>
+                <li class="link-item"><a  class="link" onclick="scrollToSection('section1')" >VAPE</a></li>
+                <li class="link-item"><a  class="link" onclick="scrollToSection('section2')">POD</a></li>
+                <li class="link-item"><a  class="link">ESSENTIAL OIL Vape</a></li>
+                <li class="link-item"><a  class="link">TRADEMARK</a></li>
         </ul>
     `;
 }

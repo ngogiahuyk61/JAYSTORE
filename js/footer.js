@@ -6,7 +6,7 @@ const createFooter = () => {
     <img src="img/logo-store.png" class="logo" alt="">
     <div class="footer-ul-container">
         <ul class="category">
-            <li class="category-title">men</li>
+            <li class="category-title">Vape</li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
@@ -19,7 +19,7 @@ const createFooter = () => {
             <li><a href="#" class="footer-link">t-shirts</a></li>                    
         </ul>
         <ul class="category">
-            <li class="category-title">women</li>
+            <li class="category-title">pod</li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
             <li><a href="#" class="footer-link">t-shirts</a></li>
